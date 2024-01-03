@@ -8,7 +8,7 @@ from pymongo import MongoClient
 
 #  Base de datos online
 db_client = MongoClient(
-    "mongodb+srv://GonzaSib340:GonzaSib340@clustersibotec.c8kj58c.mongodb.net/?retryWrites=true&w=majority"
+    "mongodb+srv://GonzaSib340:<password>/?retryWrites=true&w=majority"
     ).test
 
 ##prime
